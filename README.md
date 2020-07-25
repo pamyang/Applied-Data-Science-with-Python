@@ -1,2 +1,6 @@
 # Applied-Data-Science-with-Python
-Assignments and projects for the Applied Data Science with Python Specialization offered by the University of Michigan on Coursera.
+This repository is for assignments and projects for the Applied Data Science with Python Specialization offered by the University of Michigan on Coursera. The specialization is a set of a 5-courses designed to introduce individuals with python programming experience to the data science applications of the language. Examples of covered concepts include toolkits such as pandas, matplotlib, scikit-learn, nltk, and networkx in order to develop statistical, machine learning, information visualization, text analysis, and social network analysis techniques.
+
+The five courses taught are Introduction to Data Science in Python; Applied Plotting, Charting & Data Representation in Python; Applied Machine Learning in Python; Applied Text Mining in Python; and Applied Social Network Analysis in Python. The first three courses are intended to be taken in succession, while the last two courses can be ordinally interchanged.
+
+More info about the specialization can be found at: https://www.coursera.org/specializations/data-science-python .
